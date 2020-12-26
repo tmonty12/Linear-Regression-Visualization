@@ -1,6 +1,6 @@
 import numpy as np
 
-def calculateConstants(points):
+def calculate_constants(points):
     A = []
     b = []
     for point in points:
